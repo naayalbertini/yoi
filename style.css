@@ -143,3 +143,6 @@ text-indent: 0;
 
 }
 
+@media only screen and (max-device-width: 900px) {
+/* .menu { width:100%; } */
+}
